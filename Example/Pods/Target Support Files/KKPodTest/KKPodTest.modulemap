@@ -1,0 +1,6 @@
+framework module KKPodTest {
+  umbrella header "KKPodTest-umbrella.h"
+
+  export *
+  module * { export * }
+}
