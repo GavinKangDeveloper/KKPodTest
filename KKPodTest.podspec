@@ -1,10 +1,10 @@
 
 Pod::Spec.new do |s|
   s.name             = 'KKPodTest'
-  s.version          = '0.0.1'
+  s.version          = '0.0.2'
   s.summary          = 'A test of Pod.'
   s.description      = <<-DESC
-  主要是为了测试创建 pod 库
+  #主要是为了测试创建 pod 库
                        DESC
   s.homepage         = 'https://github.com/GavinKangDeveloper/KKPodTest'
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
