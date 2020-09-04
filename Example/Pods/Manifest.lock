@@ -1,5 +1,5 @@
 PODS:
-  - KKPodTest (0.1.0)
+  - KKPodTest (0.0.1)
 
 DEPENDENCIES:
   - KKPodTest (from `../`)
@@ -9,7 +9,7 @@ EXTERNAL SOURCES:
     :path: "../"
 
 SPEC CHECKSUMS:
-  KKPodTest: 85deb61c6f8b4298e849b186dbbb584d956a0925
+  KKPodTest: 91d4ac710883452f1e66fb2c6e639277ecb08018
 
 PODFILE CHECKSUM: a41a2b2cc55e7780db739622a95f77b64f1f98e0
 

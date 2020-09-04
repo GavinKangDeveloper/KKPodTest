@@ -3,7 +3,7 @@ This application makes use of the following third party libraries:
 
 ## KKPodTest
 
-Copyright (c) 2020 GavinKangDeveloper <zhukangkang@yishouapp.com>
+Copyright (c) 2020 ZhuKangKang <776362265@qq.com>
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal

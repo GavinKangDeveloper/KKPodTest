@@ -10,6 +10,7 @@
 #endif
 #endif
 
+#import "KKTempView.h"
 
 FOUNDATION_EXPORT double KKPodTestVersionNumber;
 FOUNDATION_EXPORT const unsigned char KKPodTestVersionString[];

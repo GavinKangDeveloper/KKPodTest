@@ -1,22 +1,24 @@
 {
   "name": "KKPodTest",
-  "version": "0.1.0",
-  "summary": "A short description of KKPodTest.",
-  "description": "TODO: Add long description of the pod here.",
+  "version": "0.0.1",
+  "summary": "A test of Pod.",
+  "description": "主要是为了测试创建 pod 库",
   "homepage": "https://github.com/GavinKangDeveloper/KKPodTest",
   "license": {
     "type": "MIT",
     "file": "LICENSE"
   },
   "authors": {
-    "GavinKangDeveloper": "zhukangkang@yishouapp.com"
+    "KangKang": "776362265@qq.com.com"
   },
   "source": {
     "git": "https://github.com/GavinKangDeveloper/KKPodTest.git",
-    "tag": "0.1.0"
+    "tag": "0.0.1"
   },
+  "social_media_url": "https://juejin.im/user/1433418895468397/posts",
   "platforms": {
-    "ios": "8.0"
+    "ios": "9.0"
   },
-  "source_files": "KKPodTest/Classes/**/*"
+  "requires_arc": true,
+  "source_files": "KKPodTest/Classes/UIKit/*.{h,m}"
 }
