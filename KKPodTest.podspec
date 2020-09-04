@@ -9,7 +9,7 @@ Pod::Spec.new do |s|
   s.homepage         = 'https://github.com/GavinKangDeveloper/KKPodTest'
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
   s.author           = { 'KangKang' => '776362265@qq.com.com' }
-  s.source           = { :git => 'https://github.com/GavinKangDeveloper/KKPod.git', :tag => s.version.to_s }
+  s.source           = { :git => 'https://github.com/GavinKangDeveloper/KKPodTest.git', :tag => s.version.to_s }
   s.social_media_url = 'https://juejin.im/user/1433418895468397/posts'
   s.ios.deployment_target = '9.0'
   s.requires_arc = true
