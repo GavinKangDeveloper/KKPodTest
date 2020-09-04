@@ -1,5 +1,9 @@
 PODS:
-  - KKPodTest (0.0.1)
+  - KKPodTest (0.0.1):
+    - KKPodTest/Category (= 0.0.1)
+    - KKPodTest/UIKit (= 0.0.1)
+  - KKPodTest/Category (0.0.1)
+  - KKPodTest/UIKit (0.0.1)
 
 DEPENDENCIES:
   - KKPodTest (from `../`)
@@ -9,8 +13,8 @@ EXTERNAL SOURCES:
     :path: "../"
 
 SPEC CHECKSUMS:
-  KKPodTest: 91d4ac710883452f1e66fb2c6e639277ecb08018
+  KKPodTest: 9ba0797f29ea9e9d4f1c6979bf1d5816ebd38746
 
-PODFILE CHECKSUM: a41a2b2cc55e7780db739622a95f77b64f1f98e0
+PODFILE CHECKSUM: b6f88da4a997e92ee403870e137c902c6222cbce
 
 COCOAPODS: 1.9.3

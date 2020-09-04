@@ -10,6 +10,7 @@
 #endif
 #endif
 
+#import "UIControl+ClickInterval.h"
 #import "KKTempView.h"
 
 FOUNDATION_EXPORT double KKPodTestVersionNumber;

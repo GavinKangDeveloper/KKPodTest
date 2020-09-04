@@ -20,5 +20,19 @@
     "ios": "9.0"
   },
   "requires_arc": true,
-  "source_files": "KKPodTest/Classes/UIKit/*.{h,m}"
+  "resource_bundles": {
+    "KKPodTest": [
+      "KKPodTest/Assets/*.xcassets"
+    ]
+  },
+  "subspecs": [
+    {
+      "name": "UIKit",
+      "source_files": "KKPodTest/Classes/UIKit/*.{h,m}"
+    },
+    {
+      "name": "Category",
+      "source_files": "KKPodTest/Classes/Category/*.{h,m}"
+    }
+  ]
 }
